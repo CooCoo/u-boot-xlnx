@@ -4,8 +4,8 @@
 */
 
 /*
-   // [20190621] Chen Wenjie  for TUL PYNQ-Z2 board
-   //
+   // [20190621] Chen Wenjie moidfied for TUL *PYNQ-Z2* board
+   // arch/arm/dts/zynq-pynqz1.dts  ==> arch/arm/dts/zynq-pynq.dts
 
  * Digilent PYNQ-Z1 Z7 board DTS
  *
